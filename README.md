@@ -1,4 +1,4 @@
-# New1
+# GeneratorJPG
 03022021
 
-shit algorithm
+Generated with random() dots on area, extend from n border point with statistic of divited start area
